@@ -1,0 +1,53 @@
+|*** EXPLANATION ***|
+==================
+There was no licensing whatsoever in the original 'betterlock' package. Not even a name or a website or an e-mail address - no-thing.
+So regardless of what a bunch of lawyers might say, I saw this as abandoned in the no man's land and picked it up. For kicks.
+Besides, the Cinnamon Spices repository has been forked a few hundred times already, including the betterlock folder with its contents, so if nobody cried out for rights by now they probably never will.
+
+Anyway, just to make things straight I mentioned the contributors found through GitHub's history feature, and I should mention the two Scroll SVG icons were made by modifying two of the existing icons in the package, so that could be considered derivative work for those who care (too much) about this kind of things.
+
+Otherwise for what can be considered my own exclusive contribution I don't care what happens to it, not gonna claim any rights or anything; did it just for fun and should be free for anyone to do whatever they see fit with it. Personally I don't know and don't care about licenses, and I believe everything should be free - not that it would happen in my lifetime... or ever.
+
+But it really really must have a license then it should be GPL v2 or v3 - your choice.
+
+|*** CHANGES ***|
+===============
+Changes in betterlockPlus over the original betterlock as found in the Spices repository at the time of writing this:
+
+v1.0.1
+- added Scroll Lock indicator icon
+- added ability to customize icon size (between 12px and 48 px)
+- added ability to change icons' colors
+- added automatic orientation based on icon size and panel height/width
+- added automatic addition/removal of menu items according to enabled indicators
+
+v1.1.0 (unreleased)
+- modified Settings dialog
+
+v1.2.0
+- slight improvement to the Settings dialog
+
+v1.3.0
+- default icon size now observes panel icon size instead of hardcoded value
+- fixed initial tooltip being set unconditionally
+
+v1.3.1
+- fixed wrong text color in icon for default mode
+- removed ability to show/hide widgets in Settings due to inability to start with hidden elements
+
+v1.4.1
+- added experimental support for keyboard backlight (not tested!)
+- tooltip font can now have custom size
+- the layout of the icons can be forced to either horizontal or vertical, icon size allowing
+- there's an extra option to display radio buttons and checkboxes instead of toggle buttons, in the Settings dialog
+
+v1.4.2
+- added short mention about GPL license
+- fixed the changelog missing v1.4.1
+
+Not bragging about it, just sayin'.
+
+That's all. If your computer bursts into flames it's not my fault.
+
+Drugwash, 2022.07.11
+

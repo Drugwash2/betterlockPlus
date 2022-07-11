@@ -1,0 +1,164 @@
+# Italian translations for betterlockPlus@drugwash package.
+# Copyright (C) 2022 betterlockPlus@drugwash's COPYRIGHT HOLDER
+# This file is distributed under the same license as the betterlockPlus@drugwash package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-05-12 20:25+0300\n"
+"PO-Revision-Date: 2019-10-19 18:21+0200\n"
+"Last-Translator: Dragone2 <dragone2@risposteinformatiche.it>\n"
+"Language-Team: <LL@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+#: applet.js:62
+msgid "Num Lock"
+msgstr "Bloc Num"
+
+#: applet.js:66
+msgid "Caps Lock"
+msgstr "Bloc Maiusc"
+
+#: applet.js:70
+msgid "Scroll Lock"
+msgstr ""
+
+#: applet.js:106
+msgid "Lock Keys"
+msgstr "Tasti di Blocco"
+
+#: applet.js:269
+msgid "Num lock on"
+msgstr "Bloc Num attivo"
+
+#: applet.js:272
+msgid "Num lock off"
+msgstr "Bloc Num disattivo"
+
+#: applet.js:280
+msgid "Caps lock on"
+msgstr "Bloc Maiusc attivo"
+
+#: applet.js:283
+msgid "Caps lock off"
+msgstr "Bloc Maiusc disattivo"
+
+#: applet.js:291
+msgid "Scroll lock on"
+msgstr ""
+
+#: applet.js:294
+msgid "Scroll lock off"
+msgstr ""
+
+#. metadata.json->name
+msgid "Num/Caps/Scroll Lock indicator with notifications"
+msgstr "Indicatore Bloc Num/Maiusc/Scroll con notifiche"
+
+#. metadata.json->description
+msgid ""
+"Shows whether num/caps/scroll lock are on, and displays a notification when "
+"these change."
+msgstr ""
+"Indica se il blocco numerico/maiuscole/scroll e attivo e visualizza una "
+"notifica quando cambiano."
+
+#. metadata.json->comments
+msgid ""
+"Enhanced version of the original 'betterlock' featuring additional Scroll Lock.\n"
+"Added customization options:\n"
+"- variable icon size [12-36px]\n"
+"- custom icon colors\n"
+"- automatic reorientation based on icon size and panel height"
+msgstr ""
+
+#. metadata.json->contributors
+msgid "original 'betterlock' author unknown"
+msgstr ""
+
+#. settings-schema.json->show-notifications->description
+msgid "Show notifications"
+msgstr "Mostra notifiche"
+
+#. settings-schema.json->indicator-type->options
+msgid "Num + Caps + Scroll Lock"
+msgstr ""
+
+#. settings-schema.json->indicator-type->options
+msgid "Num + Caps Lock"
+msgstr "Bloc Num e Bloc Maiusc"
+
+#. settings-schema.json->indicator-type->options
+msgid "Num + Scroll Lock"
+msgstr ""
+
+#. settings-schema.json->indicator-type->options
+msgid "Caps + Scroll Lock"
+msgstr ""
+
+#. settings-schema.json->indicator-type->options
+msgid "Num Lock only"
+msgstr "Solo Bloc Num"
+
+#. settings-schema.json->indicator-type->options
+msgid "Caps Lock only"
+msgstr "Solo Bloc Maiusc"
+
+#. settings-schema.json->indicator-type->options
+msgid "Scroll Lock only"
+msgstr ""
+
+#. settings-schema.json->indicator-type->description
+msgid "Choose which indicators to show:"
+msgstr "Scegli quali indicatori mostrare"
+
+#. settings-schema.json->custom-color->description
+msgid "Custom appearance"
+msgstr ""
+
+#. settings-schema.json->custom-color->tooltip
+msgid ""
+"When this option is disabled, default size and theme colors will be used"
+msgstr ""
+
+#. settings-schema.json->icon-size->units
+msgid "px"
+msgstr ""
+
+#. settings-schema.json->icon-size->description
+msgid "Icon size:"
+msgstr ""
+
+#. settings-schema.json->icon-size->tooltip
+msgid "Select individual icon size"
+msgstr ""
+
+#. settings-schema.json->color-off->description
+msgid "Button color [Off]:"
+msgstr ""
+
+#. settings-schema.json->color-off->tooltip
+msgid "Select button color for OFF state"
+msgstr ""
+
+#. settings-schema.json->color-on->description
+msgid "Button color [On]:"
+msgstr ""
+
+#. settings-schema.json->color-on->tooltip
+msgid "Select button color for ON state"
+msgstr ""
+
+#. settings-schema.json->color-bkg->description
+msgid "Text+Border color [On]:"
+msgstr ""
+
+#. settings-schema.json->color-bkg->tooltip
+msgid "Select button border color for ON state"
+msgstr ""

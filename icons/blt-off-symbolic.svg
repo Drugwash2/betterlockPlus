@@ -1,0 +1,14 @@
+<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <title>Gnome Symbolic Icon Theme</title>
+ <g transform="translate(-81,-317)" fill="#7f7f7f">
+  <rect x="81" y="324" width="3.0002" height="2" rx=".5" ry=".5" color="#bebebe" enable-background="new" opacity=".5"/>
+  <rect x="94" y="324" width="2.9998" height="2" rx=".4998" ry=".5" color="#bebebe" enable-background="new" opacity=".5"/>
+  <rect transform="matrix(.70711 -.70711 .70711 .70711 0 0)" x="-174.88" y="291.74" width="3.0002" height="2" rx=".5" ry=".5" color="#bebebe" enable-background="new" opacity=".5"/>
+  <rect transform="matrix(.70711 -.70711 .70711 .70711 0 0)" x="-161.88" y="291.74" width="2.9998" height="2" rx=".4998" ry=".5" color="#bebebe" enable-background="new" opacity=".5"/>
+  <rect transform="rotate(-90)" x="-333" y="88" width="3.0002" height="2" rx=".5" ry=".5" color="#bebebe" enable-background="new" opacity=".5"/>
+  <rect transform="rotate(-90)" x="-320" y="88" width="2.9998" height="2" rx=".4998" ry=".5" color="#bebebe" enable-background="new" opacity=".5"/>
+  <rect transform="matrix(-.70711 -.70711 .70711 -.70711 0 0)" x="-300.74" y="-167.88" width="3.0002" height="2" rx=".5" ry=".5" color="#bebebe" enable-background="new" opacity=".5"/>
+  <rect transform="matrix(-.70711 -.70711 .70711 -.70711 0 0)" x="-287.74" y="-167.88" width="2.9998" height="2" rx=".4998" ry=".5" color="#bebebe" enable-background="new" opacity=".5"/>
+  <path d="m88.989 321.01c-2.1973 0-3.9793 1.782-3.9793 3.9793s1.782 4.0086 3.9793 4.0086 4.0086-1.8113 4.0086-4.0086-1.8113-3.9793-4.0086-3.9793zm0 1.9896c1.1164 0 2.0189.87324 2.0189 1.9896 0 1.1164-.9025 2.0189-2.0189 2.0189s-1.9897-.90249-1.9897-2.0189c0-1.1164.87324-1.9896 1.9897-1.9896z" color="#000000" opacity=".5" style="block-progression:tb;text-indent:0;text-transform:none"/>
+ </g>
+</svg>

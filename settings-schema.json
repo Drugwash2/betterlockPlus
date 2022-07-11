@@ -1,0 +1,162 @@
+{
+	"options": {
+		"type": "custom",
+		"file": "settings.py",
+		"widget": "Options",
+		"description": "Configuration script"
+	},
+    "indicator-type": {
+        "type": "generic",
+        "default": "num-caps-scroll"
+	},
+	"num": {
+		"type": "generic",
+		"default": false,
+		"description": "Num Lock icon visibility",
+		"tooltip": "Num Lock selection"
+	},
+	"caps": {
+		"type": "generic",
+		"default": false,
+		"description": "Caps Lock icon visibility",
+		"tooltip": "Caps Lock selection"
+	},
+	"scroll": {
+		"type": "generic",
+		"default": false,
+		"description": "Scroll Lock icon visibility",
+		"tooltip": "Scroll Lock selection"
+	},
+	"blt": {
+		"type": "generic",
+		"default": false,
+		"description": "Display Backlight icon visibility",
+		"tooltip": "Backlight selection"
+	},
+	"klt": {
+		"type": "generic",
+		"default": false,
+		"description": "Keyboard Backlight icon visibility",
+		"tooltip": "Keylight selection"
+	},
+	"no-blt": {
+		"type": "generic",
+		"default": false,
+		"description": "Backlight availability"
+	},
+	"no-klt": {
+		"type": "generic",
+		"default": false,
+		"description": "Keylight availability"
+	},
+	"icon-size-default": {
+		"type": "generic",
+		"default": true,
+		"tooltip": "Use default icon size as set in panel settings"
+	},
+	"icon-size-custom": {
+		"type": "generic",
+		"default": false,
+		"tooltip": "Use custom icon size selected hereby"
+	},
+	"icon-size": {
+		"type": "generic",
+		"default": 18,
+		"min": 12,
+		"max": 48,
+		"units": "px",
+		"step": 1,
+		"description": "Icon size:",
+		"tooltip": "Select individual icon size"
+	},
+	"icon-color-default": {
+		"type": "generic",
+		"default": true,
+		"tooltip": "Use default icon color as set by the current theme"
+	},
+	"icon-color-custom": {
+		"type": "generic",
+		"default": false,
+		"tooltip": "Use custom icon colors selected hereby"
+	},
+	"color-off": {
+		"type": "generic",
+		"default": "rgba(128 , 128 , 128 , 0.75)",
+		"description": "Icon color [Off]",
+		"tooltip": "Select icon color for OFF state"
+	},
+	"color-on": {
+		"type": "generic",
+		"default": "rgba(110,255,195 , 1)",
+		"description": "Icon color [On]",
+		"tooltip": "Select icon color for ON state"
+	},
+	"color-bkg": {
+		"type": "generic",
+		"default": "rgba(0 , 0 , 0 , 0.75)",
+		"description": "Text+Border color [On]",
+		"tooltip": "Select icon text+border color for ON state"
+	},
+	"font-size-default": {
+		"type": "generic",
+		"default": true,
+		"tooltip": "Use default tooltip font size as set by the current theme"
+	},
+	"font-size-custom": {
+		"type": "generic",
+		"default": false,
+		"tooltip": "Use custom tooltip font size selected hereby"
+	},
+	"font-size": {
+		"type": "generic",
+		"default": 8,
+		"min": 6,
+		"max": 32,
+		"units": "pt",
+		"step": 1,
+		"description": "Tooltip font size:",
+		"tooltip": "Select the font size used in the tooltip (if enabled)"
+	},
+	"show-notifications": {
+		"type": "generic",
+		"default": false,
+		"description" : "Show notifications",
+		"tooltip": "Show popup notifications when any of the\nlock keys is toggled on or off"
+	},
+	"show-tooltip": {
+		"type": "generic",
+		"default": false,
+		"description" : "Show tooltip",
+		"tooltip": "Show a state/value tooltip when any of the lock icons is hovered in the panel"
+	},
+	"btns-type": {
+		"type": "generic",
+		"default": false,
+		"tooltip": "Use radio buttons and checkboxes, or toggle buttons, in Settings"
+	},
+	"items-default": {
+		"type": "generic",
+		"default": true,
+		"tooltip": "Default number of icons on a row (3)"
+	},
+	"items-custom": {
+		"type": "generic",
+		"default": false,
+		"tooltip": "Mix lock buttons with brightness (and other?) buttons on same row"
+	},
+	"max-items": {
+		"type": "generic",
+		"default": 3,
+		"min": 1,
+		"max": 6,
+		"units": "",
+		"step": 1,
+		"description": "Max icons/row:",
+		"tooltip": "Select the maximum number of icons\nto be displayed on a single row"
+	},
+	"decor": {
+		"type": "generic",
+		"default": false,
+		"description" : "Show fullcolor or symbolic icons"
+	}
+}

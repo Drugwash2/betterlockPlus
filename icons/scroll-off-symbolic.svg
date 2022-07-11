@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="18"
+   height="18"
+   version="1.1"
+   viewBox="0 0 4.7625 4.7625"
+   id="svg8"
+   sodipodi:docname="scroll-off-symbolic.svg"
+   inkscape:version="1.0.2 (1.0.2+r75+1)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1358"
+     inkscape:window-height="741"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="32.722222"
+     inkscape:cx="9.0916808"
+     inkscape:cy="9"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6" />
+  <path
+     d="m0.79297 0.26367c-0.29087 0-0.5293 0.23843-0.5293 0.5293v3.1758c0 0.29087 0.23843 0.5293 0.5293 0.5293h3.1758c0.29087 0 0.5293-0.23843 0.5293-0.5293v-3.1758c0-0.29087-0.23843-0.5293-0.5293-0.5293zm0 0.26562h3.1758c0.14887 0 0.26367 0.11481 0.26367 0.26367v3.1758c0 0.14887-0.11481 0.26367-0.26367 0.26367h-3.1758c-0.14887 0-0.26367-0.11481-0.26367-0.26367v-3.1758c0-0.14887 0.11481-0.26367 0.26367-0.26367z"
+     color="#000000"
+     color-rendering="auto"
+     dominant-baseline="auto"
+     fill="#7f7f7f"
+     image-rendering="auto"
+     opacity=".5"
+     shape-rendering="auto"
+     solid-color="#000000"
+     style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;isolation:auto;mix-blend-mode:normal;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"
+     id="path2" />
+  <g
+     fill="#7f7f7f"
+     opacity="0.5"
+     aria-label="1"
+     id="g6"
+     transform="matrix(1.3970188,0,0,1.0001559,-0.94518318,-1.0468632e-4)">
+    <path
+       d="M 2.38521,3.4295 1.6694,2.5197119 2.170467,2.5996994 V 1.3129 H 2.599953 V 2.5996994 L 3.10102,2.5197119 2.38521,3.42957 Z"
+       fill="#7f7f7f"
+       stroke-width="0.26458px"
+       id="path4"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+</svg>

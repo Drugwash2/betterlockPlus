@@ -1,0 +1,12 @@
+{
+	"uuid": "betterlockPlus@drugwash",
+	"name": "Lock-keys indicator",
+	"version": "1.4.2",
+	"author": "Drugwash",
+	"description": "Shows whether num/caps/scroll lock are on or off,\nand optionally displays a notification when these change.",
+	"comments": "Enhanced version of the original 'betterlock' featuring additional Scroll Lock.\nAdded customization options:\n- variable icon size [12-48px]\n- custom icon colors\n- automatic reorientation based on icon size and panel height",
+	"website": "https://2wx2l.wordpress.com",
+	"contributors": "entelechy (original 'betterlock' author), Cobinja, germanfr, NikoKrause",
+	"max-instances": "1",
+	"last-edited": 1657523389
+}
